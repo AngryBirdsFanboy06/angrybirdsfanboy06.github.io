@@ -1,0 +1,243 @@
+  1/181 .\parser-output\media\1852761597795557585-GbZUoHqbMAA7aRL.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/GbZUoHqbMAA7aRL.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  2/181 .\parser-output\media\1741468063801672043-GCrvyGdWkAA8plw.jpg: SUCCESS. New version is  11% larger in bytes and  13% larger in pixels. 0.1MB downloaded
+  3/181 .\parser-output\media\1715071451978440843-F80oVcjW4AAauBY.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  4/181 .\parser-output\media\1705920068259824072-F6rziUhXYAAtm7Z.jpg: SUCCESS. New version is 775% larger in bytes and 578% larger in pixels. 1.9MB downloaded
+  5/181 .\parser-output\media\1704174415246700860-F6ZxmNAWYAECoEh.jpg: SUCCESS. New version is  50% larger in bytes and  78% larger in pixels. 0.1MB downloaded
+  6/181 .\parser-output\media\1703682670738219075-H7PKv45iNH4vSKG3.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1697242981873631233/pu/vid/720x720/H7PKv45iNH4vSKG3.mp4?tag=12 because of exception: 'content-length'
+  7/181 .\parser-output\media\1703682510159282510-iBRGO7_5k-rnNjDZ.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1703443677522395136/pu/vid/avc1/720x1222/iBRGO7_5k-rnNjDZ.mp4?tag=12 because of exception: 'content-length'
+  8/181 .\parser-output\media\1703316404248715605-F6M6KwtXEAAGOr5.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  9/181 .\parser-output\media\1702975182338433472-F6F0xEOaIAAqjJY.jpg: SUCCESS. New version is 101% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+ 10/181 .\parser-output\media\1702729414503526405-P5WSXdFALDvnvpjA.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1702055313489211392/pu/vid/avc1/480x570/P5WSXdFALDvnvpjA.mp4?tag=12 because of exception: 'content-length'
+ 11/181 .\parser-output\media\1702707843747492303-rV_F2OaISbrsOV9y.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1702707773920698368/pu/vid/avc1/640x480/rV_F2OaISbrsOV9y.mp4?tag=12 because of exception: 'content-length'
+ 12/181 .\parser-output\media\1689531983779520513-F3JsYs6XUAA6Het.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 13/181 .\parser-output\media\1689333958910062593-F3G4SHuWAAA5KyJ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 14/181 .\parser-output\media\1689214954870546432-F3FMDLAWcAAYUXt.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 15/181 .\parser-output\media\1689212398203179008-ilryPm6cpBSfhRyc.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1689212353076674560/pu/vid/1034x720/ilryPm6cpBSfhRyc.mp4?tag=12 because of exception: 'content-length'
+ 16/181 .\parser-output\media\1689002617513431040-T1Pv1YoYs3NTibJ_.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1689002579294834689/pu/vid/1280x720/T1Pv1YoYs3NTibJ_.mp4?tag=12 because of exception: 'content-length'
+ 17/181 .\parser-output\media\1688530134981038080-F27dBWzWoAAvC8z.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 18/181 .\parser-output\media\1688162675983859713-ukJF-SBVTI9DWqqO.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1687847061494919169/pu/vid/720x720/ukJF-SBVTI9DWqqO.mp4?tag=12 because of exception: 'content-length'
+ 19/181 .\parser-output\media\1688084484548173825-F2zN9KxXsAAXA2O.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 20/181 .\parser-output\media\1687930008218615808-F2y7ZbMXIAAEhPI.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 21/181 .\parser-output\media\1687539173022932992-ci2wevBWhk1nU5uY.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1687539154010177546/pu/vid/854x480/ci2wevBWhk1nU5uY.mp4?tag=12 because of exception: 'content-length'
+ 22/181 .\parser-output\media\1687538905996787717-ZgjYYBqGxTut7YWi.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1687538896664461333/pu/vid/240x240/ZgjYYBqGxTut7YWi.mp4?tag=12 because of exception: 'content-length'
+ 23/181 .\parser-output\media\1687538187751587863-F2tXCfrXAAgQ3pa.jpg: SUCCESS. New version is   3% larger in bytes and  19% larger in pixels. 0.1MB downloaded
+ 24/181 .\parser-output\media\1687537504205864980-F2tWasDWYAAwcqw.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 25/181 .\parser-output\media\1687508690964815880-F2s8LEPXoBIAWG-.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 26/181 .\parser-output\media\1687212341132500992-WKdxeRbJKhfdC8wn.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1687212308223741952/pu/vid/720x720/WKdxeRbJKhfdC8wn.mp4?tag=12 because of exception: 'content-length'
+ 27/181 .\parser-output\media\1687107324593545216-F2nPJrPaQAArujI.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 28/181 .\parser-output\media\1686695992903491584-F2hZERmXkAAGwGy.jpg: SUCCESS. New version is  39% larger in bytes and  60% larger in pixels. 0.2MB downloaded
+ 29/181 .\parser-output\media\1686645568351666176-F2grNMaXgAAhAZb.jpg: SUCCESS. New version is  39% larger in bytes and  60% larger in pixels. 0.2MB downloaded
+ 30/181 .\parser-output\media\1686643921034563584-8fSL1OrNoRoeActP.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1686643911895195648/pu/vid/480x480/8fSL1OrNoRoeActP.mp4?tag=12 because of exception: 'content-length'
+ 31/181 .\parser-output\media\1686642992646381568-F2go3RfX0AEtQTP.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 32/181 .\parser-output\media\1686439245605482496-F2dvjoVXUAMiEOJ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 33/181 .\parser-output\media\1686430890971320320-1ViDxLVTv5MpIjv_.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1686430880829493272/pu/vid/320x240/1ViDxLVTv5MpIjv_.mp4?tag=12 because of exception: 'content-length'
+ 34/181 .\parser-output\media\1686430774357086215-F2dn2j6WIAEqzKL.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 35/181 .\parser-output\media\1686387901658173440-6-jlZ0B0UrUc0mDB.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1686387889712857089/pu/vid/240x240/6-jlZ0B0UrUc0mDB.mp4?tag=12 because of exception: 'content-length'
+ 36/181 .\parser-output\media\1686386488043532288-F2c_km_bMAAQjWE.jpg: SUCCESS. New version is  97% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 37/181 .\parser-output\media\1686386388839940097-F2c_e6oasAAuZtZ.jpg: SUCCESS. New version is  97% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 38/181 .\parser-output\media\1686384968313057280-F2c-MR2bIAAUFj9.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 39/181 .\parser-output\media\1686383801231196162-F2c9ISdaoAEBxSX.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 40/181 .\parser-output\media\1685920533286617088-F2WXynMXkAAYIVg.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 41/181 .\parser-output\media\1685879618975203328-F2VykmTXkAA_nhs.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 42/181 .\parser-output\media\1685877026337521664-VFnDFCvrtl1QPepq.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1685877016506032128/pu/vid/640x344/VFnDFCvrtl1QPepq.mp4?tag=12 because of exception: 'content-length'
+ 43/181 .\parser-output\media\1685707097864835072-F2TVrDLXQAAmTQN.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 44/181 .\parser-output\media\1685705704684814336-F2TUZU9XkAIrGhc.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 45/181 .\parser-output\media\1685694108117934080-F2TJzUdXcAAqglI.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 46/181 .\parser-output\media\1685691687052480512-F2THplQXsAAU9uj.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 47/181 .\parser-output\media\1685690629387378688-F2TGpOPWEAAcUTK.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 48/181 .\parser-output\media\1685690613436383232-F2TGpOPWEAAcUTK.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 49/181 .\parser-output\media\1685688980887461889-ZZehPwRaVVRQILKJ.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1685688947161083904/pu/vid/1280x720/ZZehPwRaVVRQILKJ.mp4?tag=12 because of exception: 'content-length'
+ 50/181 .\parser-output\media\1685688242912251904-RA0Bqi5IV4DIm69g.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1685498057415159808/pu/vid/480x720/RA0Bqi5IV4DIm69g.mp4?tag=12 because of exception: 'content-length'
+ 51/181 .\parser-output\media\1685384649311195137-F2OwaE-WcAAEBmT.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 52/181 .\parser-output\media\1685383393498832902-F2OvQ-FXoAA60iU.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 53/181 .\parser-output\media\1685381444066058241-F2Otff7XsAEu2zv.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 54/181 .\parser-output\media\1685381019052986368-F2OtGvmW0AAOMe6.jpg: SUCCESS. New version is  49% larger in bytes and  78% larger in pixels. 0.1MB downloaded
+ 55/181 .\parser-output\media\1685214973931220993-F2MWFqRW4AEfk0S.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 56/181 .\parser-output\media\1685187085378920448-F2L8uUcWEAIFml9.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 57/181 .\parser-output\media\1685186582528020480-F2L8REVX0AEHrwn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 58/181 .\parser-output\media\1684990455191089165-FdrjI_-XkAo6cE6.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 59/181 .\parser-output\media\1684967027960635392-F2I0k4_WwAAyh8y.jpg: SUCCESS. New version is 177% larger in bytes and 355% larger in pixels. 0.2MB downloaded
+ 60/181 .\parser-output\media\1684953198312787970-F2InrtfXsAAIJDc.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 61/181 .\parser-output\media\1684939819179241472-F2Ib1OAWIAAlq3m.jpg: SUCCESS. New version is 220% larger in bytes and 355% larger in pixels. 0.2MB downloaded
+ 62/181 .\parser-output\media\1684864023269953536-F2HW5WYX0AAG86G.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 63/181 .\parser-output\media\1684671827036053504-F2EoGTIW4AASP4b.jpg: SUCCESS. New version is  27% larger in bytes and  44% larger in pixels. 0.1MB downloaded
+ 64/181 .\parser-output\media\1684305046173892608-F1_ag2vXsAIhY5O.jpg: SUCCESS. New version is  97% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 65/181 .\parser-output\media\1684303931709554688-_mEGkMRZcmlI6emo.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1684303899694444546/pu/vid/1280x720/_mEGkMRZcmlI6emo.mp4?tag=12 because of exception: 'content-length'
+ 66/181 .\parser-output\media\1683924232810696705-JfaYyeRd7ixEZ8OJ.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1683924192259891216/pu/vid/1280x720/JfaYyeRd7ixEZ8OJ.mp4?tag=12 because of exception: 'content-length'
+ 67/181 .\parser-output\media\1683854883013767168-Z29OVkXdngSFBmT6.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 68/181 .\parser-output\media\1683851878705123328-F1vnfa8WYAIYq3D.jpg: SUCCESS. New version is  39% larger in bytes and  79% larger in pixels. 0.2MB downloaded
+ 69/181 .\parser-output\media\1683851078129922049-F149ocFWcAUEaR2.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 70/181 .\parser-output\media\1683795405786476544-F1vGt6RX0AA-65W.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 71/181 .\parser-output\media\1683794349899804673-IgmRzw9029cPqzLq.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1683794334645198852/pu/vid/480x480/IgmRzw9029cPqzLq.mp4?tag=12 because of exception: 'content-length'
+ 72/181 .\parser-output\media\1683792614200320001-F10K901aMAUnmxA.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 73/181 .\parser-output\media\1683528127954206734-F10XyM-WwAgzRKW.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 74/181 .\parser-output\media\1683526013597171727-F10V-_qWwAc-wDq.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 75/181 .\parser-output\media\1683523686421209088-F10T3fCXoBsYipc.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 76/181 .\parser-output\media\1683011107428892673-F1tBrpWWYAIFqjH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 77/181 .\parser-output\media\1683010306602065920-F1tA9FKXsAEj8du.jpg: SUCCESS. New version is  97% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 78/181 .\parser-output\media\1682658500332212224-F1oA_SaXgAAdkQP.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 79/181 .\parser-output\media\1682297005551255552-F1i4NhPX0AY7zCf.jpg: SUCCESS. New version is  45% larger in bytes and  78% larger in pixels. 0.0MB downloaded
+ 80/181 .\parser-output\media\1682039382004600834-F1fMbYtaEAY8Qnv.png: SUCCESS. New version is   1% larger in bytes and 355% larger in pixels. 0.5MB downloaded
+ 81/181 .\parser-output\media\1682037194243076099-F1fG4zCakAUirDS.jpg: SUCCESS. New version is   2% larger in bytes and  15% larger in pixels. 0.0MB downloaded
+ 82/181 .\parser-output\media\1681944451168575490-F1d3kLTWAAAZB5t.jpg: SUCCESS. New version is  45% larger in bytes and  78% larger in pixels. 0.0MB downloaded
+ 83/181 .\parser-output\media\1681938245800677376-xeIk_QcGsslXRmqw.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1660667037440524290/pu/vid/576x572/xeIk_QcGsslXRmqw.mp4?tag=12 because of exception: 'content-length'
+ 84/181 .\parser-output\media\1681933654224691200-F1VeqinWAAAbxOo.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 85/181 .\parser-output\media\1681933410636374017-F1dthiAWwAAKrwy.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 86/181 .\parser-output\media\1681931679303192577-F1dr8wiWwAA3Fnw.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 87/181 .\parser-output\media\1681930215440752640-4kydOIZ25ZmAQuWd.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1681712687732883465/pu/vid/720x720/4kydOIZ25ZmAQuWd.mp4?tag=12 because of exception: 'content-length'
+ 88/181 .\parser-output\media\1681921150664753152-F1diX4MXwAABQk1.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 89/181 .\parser-output\media\1681716615388250123-F1alVCmWAAkOrH1.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 90/181 .\parser-output\media\1681716603220574221-F1aoVpZWwBUCq0i.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 91/181 .\parser-output\media\1681688325504086017-F1aOnrQXoAAM-fH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 92/181 .\parser-output\media\1681686814510161920-F1Rt1AaXoAI1L3A.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 93/181 .\parser-output\media\1681591885138108417-F1Y26IBXgAAEn43.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 94/181 .\parser-output\media\1681591801432399875-F1Y21PfXgAAYj1C.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 95/181 .\parser-output\media\1681396421377814530-F1WFIpNXoAcL2tl.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 96/181 .\parser-output\media\1681384883036225544-F1V6pB3WABQmN2g.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 97/181 .\parser-output\media\1702293513637961827-F56U22ZWYAAbaIa.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 98/181 .\parser-output\media\1702293451935555785-F58aSpWWQAAfALE.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 99/181 .\parser-output\media\1702293407937233065-F5_C1VIWEAAR049.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+100/181 .\parser-output\media\1702290873956876697-F515eEHXMAANo3U.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+101/181 .\parser-output\media\1702212397434355866-F572Ey-XQAExaGq.jpg: SUCCESS. New version is  72% larger in bytes and 164% larger in pixels. 0.1MB downloaded
+102/181 .\parser-output\media\1702211989051781189-PZykekFPrPzvspzq.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1702076616921280512/pu/vid/avc1/480x800/PZykekFPrPzvspzq.mp4?tag=12 because of exception: 'content-length'
+103/181 .\parser-output\media\1681381056987922438-P2b49ONJ9Cg-a2Xw.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1681381021172809728/pu/vid/1280x720/P2b49ONJ9Cg-a2Xw.mp4?tag=12 because of exception: 'content-length'
+104/181 .\parser-output\media\1681307966451101697-h6uxckTONfgWYbxC.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1681307950412083200/pu/vid/480x360/h6uxckTONfgWYbxC.mp4?tag=12 because of exception: 'content-length'
+105/181 .\parser-output\media\1681306895888547845-F1RLcHxaEAAIgpj.jpg: SUCCESS. New version is   2% larger in bytes and  14% larger in pixels. 0.2MB downloaded
+106/181 .\parser-output\media\1681306867027558408-F1Uzqg0akAsdZeW.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+107/181 .\parser-output\media\1681301310329729024-orviL05rMoS-0VPP.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1681301215144185858/pu/vid/1280x720/orviL05rMoS-0VPP.mp4?tag=12 because of exception: 'content-length'
+108/181 .\parser-output\media\1681300844573265922-F1MeB9NXoAAJXht.jpg: SUCCESS. New version is 265% larger in bytes and  14% larger in pixels. 0.6MB downloaded
+109/181 .\parser-output\media\1681300576754335745-F1Ut2YxagAAa642.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+110/181 .\parser-output\media\1681299285906948099-ZUquhjtJgAdk0QVa.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1681299231162896390/pu/vid/1280x720/ZUquhjtJgAdk0QVa.mp4?tag=12 because of exception: 'content-length'
+111/181 .\parser-output\media\1681297385883078662-F1UrBSMaAAQ_nIl.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+112/181 .\parser-output\media\1681020111472463872-F1Qu4f1XgAMzAkb.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+113/181 .\parser-output\media\1680900999572078597-_atZ1K27dSO7aeVa.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1680900984996876288/pu/vid/388x480/_atZ1K27dSO7aeVa.mp4?tag=12 because of exception: 'content-length'
+114/181 .\parser-output\media\1680221634630762496-5Y_-UGdKEOr2ecyj.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1680221540787388416/pu/vid/1280x720/5Y_-UGdKEOr2ecyj.mp4?tag=12 because of exception: 'content-length'
+115/181 .\parser-output\media\1679046157178220545-F00rW5eXsAAv_ci.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+116/181 .\parser-output\media\1702012972795613408-F56vRWKXwAAp5bO.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+117/181 .\parser-output\media\1702012972795613408-F56vRWQWEAAyn1r.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+118/181 .\parser-output\media\1702012972795613408-F56vRWOWEAEUpPw.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+119/181 .\parser-output\media\1701799787773755459-F54B4juXEAAGFmS.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+120/181 .\parser-output\media\1700761031201444349-F5nvfVCasAA07gF.jpg: SUCCESS. New version is 821% larger in bytes and 1011% larger in pixels. 1.6MB downloaded
+121/181 .\parser-output\media\1700760743644164462-F5oYh8MXkAAks_S.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+122/181 .\parser-output\media\1700760549720559834-F5nJpy4W8AAOGm6.jpg: SUCCESS. New version is 367% larger in bytes and 1065% larger in pixels. 0.5MB downloaded
+123/181 .\parser-output\media\1700760468611006965-F5mNr_aXoAEv1sQ.jpg: SUCCESS. New version is 281% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+124/181 .\parser-output\media\1700760468611006965-F5mNr_ZXkAAlirn.jpg: SUCCESS. New version is 286% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+125/181 .\parser-output\media\1700760468611006965-F5mNr_RWYAA6s3M.jpg: SUCCESS. New version is 279% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+126/181 .\parser-output\media\1700760468611006965-F5mNr_ZWwAAqgwP.jpg: SUCCESS. New version is 278% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+127/181 .\parser-output\media\1700760401133138328-F5nJCX2boAAtwOQ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+128/181 .\parser-output\media\1700759490839076959-F5l1iECWEAAjuKa.jpg: SUCCESS. New version is  47% larger in bytes and  69% larger in pixels. 0.2MB downloaded
+129/181 .\parser-output\media\1700758683951509995-F5HvKKWXMAAYZCT.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+130/181 .\parser-output\media\1700594883889688752-3qnvUVNM1j5Y0x2s.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1700522859972689920/pr/vid/avc1/480x480/3qnvUVNM1j5Y0x2s.mp4?tag=12 because of exception: 'content-length'
+131/181 .\parser-output\media\1700056524498850153-F5fQZjWWcAAiwJT.jpg: SUCCESS. New version is 149% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+132/181 .\parser-output\media\1699023727999017463-0R0hnHpkgt2f45ed.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1698699701657161728/pu/vid/720x720/0R0hnHpkgt2f45ed.mp4?tag=12 because of exception: 'content-length'
+133/181 .\parser-output\media\1697657594221875582-F49KldoXgAA2PIV.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+134/181 .\parser-output\media\1697284361370869941-dxlqN8bDVFj-tGAv.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1696945630487392259/pu/vid/720x1226/dxlqN8bDVFj-tGAv.mp4?tag=12 because of exception: 'content-length'
+135/181 .\parser-output\media\1697284313694216608-F43lQGhW0AABLUU.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+136/181 .\parser-output\media\1697284277266686235-F4y_QI_XUAApfjY.jpg: SUCCESS. New version is  73% larger in bytes and 178% larger in pixels. 0.2MB downloaded
+137/181 .\parser-output\media\1697284277266686235-F4y_QI8WEAAFT2x.jpg: SUCCESS. New version is  64% larger in bytes and 178% larger in pixels. 0.2MB downloaded
+138/181 .\parser-output\media\1697284277266686235-F4y_QI-XMAAQ4F-.jpg: SUCCESS. New version is  66% larger in bytes and 178% larger in pixels. 0.2MB downloaded
+139/181 .\parser-output\media\1697284277266686235-F4y_QI_XYAASGnn.jpg: SUCCESS. New version is  67% larger in bytes and 178% larger in pixels. 0.2MB downloaded
+140/181 .\parser-output\media\1697284214285017272-F4ytGadXwAU5SZ5.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+141/181 .\parser-output\media\1697283438548492317-F4jA4JwXgAAS_kA.jpg: SUCCESS. New version is actually  13% smaller in bytes but  23% larger in pixels. 0.2MB downloaded
+142/181 .\parser-output\media\1697283245698588731-j4__ctX2fyPf76UM.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/amplify_video/1695570281652236288/vid/576x1024/j4__ctX2fyPf76UM.mp4?tag=14 because of exception: 'content-length'
+143/181 .\parser-output\media\1697282984976453654-M2XA1fulwlK0joC9.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1696728169582059520/pu/vid/922x720/M2XA1fulwlK0joC9.mp4?tag=12 because of exception: 'content-length'
+144/181 .\parser-output\media\1696941061409509457-F4y-5tkWQAANWCN.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+145/181 .\parser-output\media\1696939064195182700-F4y9Ex8WQAAjJ0k.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+146/181 .\parser-output\media\1696934560234136018-6W2EUVdG0BQutMUb.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1696934325109800960/pu/vid/1280x720/6W2EUVdG0BQutMUb.mp4?tag=12 because of exception: 'content-length'
+147/181 .\parser-output\media\1696154233148489775-h0v3cFXCoZCY3CMs.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1695797287585222657/pu/vid/900x720/h0v3cFXCoZCY3CMs.mp4?tag=12 because of exception: 'content-length'
+148/181 .\parser-output\media\1695765942909693952-F4iSIuNXgAAZXJw.jpg: SUCCESS. New version is  18% larger in bytes and  36% larger in pixels. 0.1MB downloaded
+149/181 .\parser-output\media\1695764742730637730-F4iRCpLXUAAdgav.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+150/181 .\parser-output\media\1695764113152983095-F4dbrN6akAAC7L8.jpg: SUCCESS. New version is  94% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+151/181 .\parser-output\media\1695764093783691770-F4ekvfcWcAAYz3g.jpg: SUCCESS. New version is 1149% larger in bytes and 523% larger in pixels. 1.9MB downloaded
+152/181 .\parser-output\media\1695763714983539136-F4euqXjWwAAr8KR.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+153/181 .\parser-output\media\1695763678883102967-sQU99OH0PxtyH-mD.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1695656647891578880/pu/vid/480x854/sQU99OH0PxtyH-mD.mp4?tag=12 because of exception: 'content-length'
+154/181 .\parser-output\media\1695763343791816708-IlEvopdvjEgci-XC.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/amplify_video/1695358488569163776/vid/720x1280/IlEvopdvjEgci-XC.mp4?tag=14 because of exception: 'content-length'
+155/181 .\parser-output\media\1695739828300595505-F4h6YwJXAAA8awz.jpg: SUCCESS. New version is  47% larger in bytes and  78% larger in pixels. 0.1MB downloaded
+156/181 .\parser-output\media\1695018948981297281-F4XqwDEXwAAGvYd.jpg: SUCCESS. New version is  97% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+157/181 .\parser-output\media\1693872351543218315-F4HX7UcX0AA1FWX.jpg: SUCCESS. New version is  45% larger in bytes and  78% larger in pixels. 0.1MB downloaded
+158/181 .\parser-output\media\1693675132806443102-F4Eki81XoAIoThc.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+159/181 .\parser-output\media\1693638967885738127-F4ECd9-XIAAq8pc.jpg: SUCCESS. New version is   7% larger in bytes and  14% larger in pixels. 0.1MB downloaded
+160/181 .\parser-output\media\1693586529057165528-SNyl3vCwDuB9500z.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1693586520681107457/pu/vid/470x360/SNyl3vCwDuB9500z.mp4?tag=12 because of exception: 'content-length'
+161/181 .\parser-output\media\1693585367205634542-F37iParXkAAcBhn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+162/181 .\parser-output\media\1693328228348284950-F3_pDM2WEAA_Muc.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+163/181 .\parser-output\media\1693152256672006460-F39JAIiXAAE8l69.jpg: SUCCESS. New version is  45% larger in bytes and  78% larger in pixels. 0.1MB downloaded
+164/181 .\parser-output\media\1693022892311666756-F37TWTKWIAA4tsL.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+165/181 .\parser-output\media\1692883320462316015-F35UTtfXEAAaCq4.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+166/181 .\parser-output\media\1692883155269701754-F32F9kmXMAAazBm.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+167/181 .\parser-output\media\1692879235713491180-F35QkS4XoAAWAvi.jpg: SUCCESS. New version is 178% larger in bytes and 355% larger in pixels. 0.3MB downloaded
+168/181 .\parser-output\media\1692417860872634681-F3ytE1EWwAAL00U.jpg: SUCCESS. New version is  46% larger in bytes and  78% larger in pixels. 0.1MB downloaded
+169/181 .\parser-output\media\1691911351332122942-F3rgZ7JWoAABF9w.jpg: SUCCESS. New version is  76% larger in bytes and 156% larger in pixels. 0.2MB downloaded
+170/181 .\parser-output\media\1691910984523493745-F3rgExFWoAAnTbF.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+171/181 .\parser-output\media\1691548910861365736-NQ4kzEEOvc5kOD1J.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1691548881492889600/pu/vid/480x850/NQ4kzEEOvc5kOD1J.mp4?tag=12 because of exception: 'content-length'
+172/181 .\parser-output\media\1691478325984653312-F3lWktNW8AAty2B.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+173/181 .\parser-output\media\1691335944899559424-F3jVE_aWQAAIRQd.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+174/181 .\parser-output\media\1690749581762412544-F3a_yMYWkAMe5oV.jpg: SUCCESS. New version is 150% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+175/181 .\parser-output\media\1690654679384866816-bYwumZk6F-txbO2A.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1690654664335732736/pu/vid/1280x720/bYwumZk6F-txbO2A.mp4?tag=12 because of exception: 'content-length'
+176/181 .\parser-output\media\1690646979158708224-F3ZidpnXcAAvROL.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+177/181 .\parser-output\media\1690629491649892353-F3ZSj9xXkAAl1Iz.jpg: SUCCESS. New version is  47% larger in bytes and  78% larger in pixels. 0.1MB downloaded
+178/181 .\parser-output\media\1690521377713860608-F3XwO6jXgAAMt3N.jpg: SUCCESS. New version is  26% larger in bytes and  40% larger in pixels. 0.1MB downloaded
+179/181 .\parser-output\media\1690269334818496512-F3UK_2YWwAAxKXk.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+180/181 .\parser-output\media\1689730730140565504-C_7X7z7IIilTF4GM.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1689730696594526208/pu/vid/720x720/C_7X7z7IIilTF4GM.mp4?tag=12 because of exception: 'content-length'
+181/181 .\parser-output\media\1689730142375903237-F3MgnDaWUAAry1W.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+
+139 of 181 tested media files are known to be the best-quality available.
+
+  1/ 42 .\parser-output\media\1852761597795557585-GbZUoHqbMAA7aRL.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/GbZUoHqbMAA7aRL.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  2/ 42 .\parser-output\media\1703682670738219075-H7PKv45iNH4vSKG3.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  3/ 42 .\parser-output\media\1703682510159282510-iBRGO7_5k-rnNjDZ.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  4/ 42 .\parser-output\media\1702729414503526405-P5WSXdFALDvnvpjA.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  5/ 42 .\parser-output\media\1702707843747492303-rV_F2OaISbrsOV9y.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  6/ 42 .\parser-output\media\1689212398203179008-ilryPm6cpBSfhRyc.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  7/ 42 .\parser-output\media\1689002617513431040-T1Pv1YoYs3NTibJ_.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  8/ 42 .\parser-output\media\1688162675983859713-ukJF-SBVTI9DWqqO.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  9/ 42 .\parser-output\media\1687539173022932992-ci2wevBWhk1nU5uY.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 10/ 42 .\parser-output\media\1687538905996787717-ZgjYYBqGxTut7YWi.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 11/ 42 .\parser-output\media\1687212341132500992-WKdxeRbJKhfdC8wn.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 12/ 42 .\parser-output\media\1686643921034563584-8fSL1OrNoRoeActP.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 13/ 42 .\parser-output\media\1686430890971320320-1ViDxLVTv5MpIjv_.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 14/ 42 .\parser-output\media\1686387901658173440-6-jlZ0B0UrUc0mDB.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 15/ 42 .\parser-output\media\1685877026337521664-VFnDFCvrtl1QPepq.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 16/ 42 .\parser-output\media\1685688980887461889-ZZehPwRaVVRQILKJ.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 17/ 42 .\parser-output\media\1685688242912251904-RA0Bqi5IV4DIm69g.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 18/ 42 .\parser-output\media\1684303931709554688-_mEGkMRZcmlI6emo.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 19/ 42 .\parser-output\media\1683924232810696705-JfaYyeRd7ixEZ8OJ.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 20/ 42 .\parser-output\media\1683794349899804673-IgmRzw9029cPqzLq.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 21/ 42 .\parser-output\media\1681938245800677376-xeIk_QcGsslXRmqw.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 22/ 42 .\parser-output\media\1681930215440752640-4kydOIZ25ZmAQuWd.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 23/ 42 .\parser-output\media\1702211989051781189-PZykekFPrPzvspzq.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 24/ 42 .\parser-output\media\1681381056987922438-P2b49ONJ9Cg-a2Xw.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 25/ 42 .\parser-output\media\1681307966451101697-h6uxckTONfgWYbxC.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 26/ 42 .\parser-output\media\1681301310329729024-orviL05rMoS-0VPP.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 27/ 42 .\parser-output\media\1681299285906948099-ZUquhjtJgAdk0QVa.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 28/ 42 .\parser-output\media\1680900999572078597-_atZ1K27dSO7aeVa.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 29/ 42 .\parser-output\media\1680221634630762496-5Y_-UGdKEOr2ecyj.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 30/ 42 .\parser-output\media\1700594883889688752-3qnvUVNM1j5Y0x2s.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 31/ 42 .\parser-output\media\1699023727999017463-0R0hnHpkgt2f45ed.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 32/ 42 .\parser-output\media\1697284361370869941-dxlqN8bDVFj-tGAv.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 33/ 42 .\parser-output\media\1697283245698588731-j4__ctX2fyPf76UM.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 34/ 42 .\parser-output\media\1697282984976453654-M2XA1fulwlK0joC9.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 35/ 42 .\parser-output\media\1696934560234136018-6W2EUVdG0BQutMUb.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 36/ 42 .\parser-output\media\1696154233148489775-h0v3cFXCoZCY3CMs.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 37/ 42 .\parser-output\media\1695763678883102967-sQU99OH0PxtyH-mD.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 38/ 42 .\parser-output\media\1695763343791816708-IlEvopdvjEgci-XC.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 39/ 42 .\parser-output\media\1693586529057165528-SNyl3vCwDuB9500z.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 40/ 42 .\parser-output\media\1691548910861365736-NQ4kzEEOvc5kOD1J.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 41/ 42 .\parser-output\media\1690654679384866816-bYwumZk6F-txbO2A.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 42/ 42 .\parser-output\media\1689730730140565504-C_7X7z7IIilTF4GM.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+
+41 of 42 tested media files are known to be the best-quality available.
+
+  1/  1 .\parser-output\media\1852761597795557585-GbZUoHqbMAA7aRL.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/GbZUoHqbMAA7aRL.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+
+0 of 1 tested media files are known to be the best-quality available.
+
+  1/  1 .\parser-output\media\1852761597795557585-GbZUoHqbMAA7aRL.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/GbZUoHqbMAA7aRL.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+
+0 of 1 tested media files are known to be the best-quality available.
+
+  1/  1 .\parser-output\media\1852761597795557585-GbZUoHqbMAA7aRL.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/GbZUoHqbMAA7aRL.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+
+0 of 1 tested media files are known to be the best-quality available.
+
+Total downloaded: 15.1MB = 0.01GB
+Time taken: 292s
