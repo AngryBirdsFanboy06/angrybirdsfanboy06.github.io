@@ -66,13 +66,18 @@ html {
 }
 
 .winbar {
+	margin: auto;
+    margin-top: 0px;
+    margin-bottom: -22px;
     background-image: linear-gradient(to right, rgb(10, 36, 106) 0%, rgb(166, 202, 240) 100%, rgb(166, 202, 240) 101%);
 	text-align: center;
 	padding: 1px !important;
 	box-shadow: inset -1px -1px 0px 0px #404040, inset 1px 1px 0px 0px #eceae7, inset -2px -2px 0px 0px #808080, inset 2px 2px 0px 0px #ffffff !important;
 	color: white;
+	min-width: 480px;
+    max-width: 500px;
     font-family: verdana;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 /* .headerbuttons { */
@@ -84,31 +89,50 @@ html {
     /* align-items: center */
 /* } */
 
-.wip, .error404 {
+.wip, .error404, .home, .aboutme, .socials, .portfolio, .fanart, .braindump {
     display: block;
     margin: auto;
     margin-top: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     background: #d4d0c8;
     min-width: 480px;
-    max-width: 500px;
+    max-width: 502px;
 	box-shadow: inset -1px -1px 0px 0px #404040, inset 1px 1px 0px 0px #eceae7, inset -2px -2px 0px 0px #808080, inset 2px 2px 0px 0px #ffffff !important;
+}
+
+.home h1, .home p, .aboutme h1, .aboutme p, .socials h1, .socials p, .portfolio h1, .portfolio p, .fanart h1, .fanart p, .braindump h1, .braindump p, .wip h1, .wip p, .error404 h1, .error404 p{
+    padding: 15px;
+    padding-top: 5px;
+}
+
+.home {
+	text-align: left;
+	font-family: verdana;
+}
+
+.home img {
+	text-align: right;
+}
+
+.wip, .error404, .aboutme, .socials, .portfolio, .fanart, .braindump {
 	text-align: center;
 	font-family: verdana;
 }
 
-.wip a, .error404 a {
+.wip a, .error404 a, .home a, .aboutme a, .socials a, .portfolio a, .fanart a, .braindump a {
 	color: black;
 }
 
 .footer {
     display: block;
     margin: auto;
-    margin-top: 0px;
+    margin-top: 22px;
     margin-bottom: 0px;
     background: #d4d0c8;
     min-width: 480px;
-    max-width: 500px;
+    max-width: 502px;
 	box-shadow: inset -1px -1px 0px 0px #404040, inset 1px 1px 0px 0px #eceae7, inset -2px -2px 0px 0px #808080, inset 2px 2px 0px 0px #ffffff !important;
 	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
 }
