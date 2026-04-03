@@ -84,20 +84,7 @@ html {
     /* align-items: center */
 /* } */
 
-.wip {
-    display: block;
-    margin: auto;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    background: #d4d0c8;
-    min-width: 480px;
-    max-width: 500px;
-	box-shadow: inset -1px -1px 0px 0px #404040, inset 1px 1px 0px 0px #eceae7, inset -2px -2px 0px 0px #808080, inset 2px 2px 0px 0px #ffffff !important;
-	text-align: center;
-	font-family: verdana;
-}
-
-.errormyass {
+.wip, .errormyass {
     display: block;
     margin: auto;
     margin-top: 0px;
