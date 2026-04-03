@@ -84,7 +84,7 @@ html {
     /* align-items: center */
 /* } */
 
-.wip {
+.wip, .error404 {
     display: block;
     margin: auto;
     margin-top: 0px;
@@ -97,9 +97,10 @@ html {
 	font-family: verdana;
 }
 
-.wip a {
+.wip a, .error404 a {
 	color: black;
 }
+
 
 .footer {
     display: block;
