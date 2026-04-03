@@ -97,7 +97,7 @@ html {
 	font-family: verdana;
 }
 
-.error404 {
+.errormyass {
     display: block;
     margin: auto;
     margin-top: 0px;
@@ -110,7 +110,7 @@ html {
 	font-family: verdana;
 }
 
-.wip a, .error404 a {
+.wip a, .errormyass a {
 	color: black;
 }
 
