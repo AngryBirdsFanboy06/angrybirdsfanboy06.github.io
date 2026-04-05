@@ -89,7 +89,7 @@ html {
     /* align-items: center */
 /* } */
 
-.wip, .error404, .home, .aboutme, .socials, .portfolio, .fanart, .braindump {
+.wip, .error404, .home, .aboutme, .socials, .portfolio, .fanart, .braindump{
     display: block;
     margin: auto;
     margin-top: 0px;
@@ -100,21 +100,28 @@ html {
 	box-shadow: inset -1px -1px 0px 0px #404040, inset 1px 1px 0px 0px #eceae7, inset -2px -2px 0px 0px #808080, inset 2px 2px 0px 0px #ffffff !important;
 }
 
-.home h1, .home p, .aboutme h1, .aboutme p, .socials h1, .socials p, .portfolio h1, .portfolio p, .fanart h1, .fanart p, .braindump h1, .braindump p, .wip h1, .wip p, .error404 h1, .error404 p{
+.home h1, .home p, .aboutme h1, .aboutme p, .socials h1, .socials p, .portfolio h1, .portfolio p, .fanart h1, .fanart p, .fanart h3, .braindump h1, .braindump p, .wip h1, .wip p, .error404 h1, .error404 p{
     padding: 15px;
     padding-top: 5px;
 }
 
-.home {
+.fanart td, .fanart th {
+    padding: 10px;
+    padding-top: 0px;
+}
+
+.home, .aboutme, .fanart, .braindump {
 	text-align: left;
 	font-family: verdana;
 }
 
-.home img {
-	text-align: right;
+.braindumpbsky {
+	margin: auto;
+	min-width: 420px;
+    max-width: 420px;
 }
 
-.wip, .error404, .aboutme, .socials, .portfolio, .fanart, .braindump {
+.centersection, .wip, .error404, .socials, .portfolio {
 	text-align: center;
 	font-family: verdana;
 }
@@ -135,4 +142,15 @@ html {
 	text-align: center;
 	padding-top: 15px;
 	padding-bottom: 15px;
+}
+
+.code-textbox {
+    width: 80%;
+    padding: 15px;
+    background-color: #000;
+    border: 1px solid var(--color);
+    color: white;
+    font-family: monospace;
+    font-size: 14px;
+    box-sizing: border-box;
 }
