@@ -89,7 +89,7 @@ html {
     /* align-items: center */
 /* } */
 
-.wip, .error404, .home, .aboutme, .socials, .portfolio, .fanart, .braindump{
+.wip, .error404, .home, .aboutme, .socials, .portfolio, .fanart, .fanartsubmissions, .braindump{
     display: block;
     margin: auto;
     margin-top: 0px;
@@ -100,17 +100,17 @@ html {
 	box-shadow: inset -1px -1px 0px 0px #404040, inset 1px 1px 0px 0px #eceae7, inset -2px -2px 0px 0px #808080, inset 2px 2px 0px 0px #ffffff !important;
 }
 
-.home h1, .home p, .aboutme h1, .aboutme p, .socials h1, .socials p, .portfolio h1, .portfolio p, .fanart h1, .fanart p, .fanart h3, .braindump h1, .braindump p, .wip h1, .wip p, .error404 h1, .error404 p{
+.home h1, .home p, .aboutme h1, .aboutme p, .socials h1, .socials p, .portfolio h1, .portfolio p, .fanart h1, .fanart p, .fanartsubmissions h1, .fanartsubmissions p, .fanartsubmissions h3, .braindump h1, .braindump p, .wip h1, .wip p, .error404 h1, .error404 p{
     padding: 15px;
     padding-top: 5px;
 }
 
-.fanart td, .fanart th {
+.fanartsubmissions td, .fanartsubmissions th {
     padding: 10px;
     padding-top: 0px;
 }
 
-.home, .aboutme, .fanart, .braindump {
+.home, .aboutme, .fanartsubmissions, .braindump {
 	text-align: left;
 	font-family: verdana;
 }
@@ -121,12 +121,12 @@ html {
     max-width: 420px;
 }
 
-.centersection, .wip, .error404, .socials, .portfolio {
+.centersection, .wip, .error404, .socials, .portfolio, .fanart {
 	text-align: center;
 	font-family: verdana;
 }
 
-.wip a, .error404 a, .home a, .aboutme a, .socials a, .portfolio a, .fanart a, .braindump a {
+.wip a, .error404 a, .home a, .aboutme a, .socials a, .portfolio a, .fanart a, .fanartsubmissions a, .braindump a {
 	color: black;
 }
 
