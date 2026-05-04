@@ -1,0 +1,1 @@
+<a href="[LINK]" target="_blank" aria-label="[NAME] website link" title="[NAME]"><img src="[WHERE YOU STORED THE GIF]"></a>"
