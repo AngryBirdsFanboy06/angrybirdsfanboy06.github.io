@@ -6,6 +6,8 @@
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
 	<meta name="viewport" content="width=device-width, initial-scale=0.7">
 	<meta name="robots" content="nosnippet" />
+	<link rel="stylesheet" href="/js/win_popup.css"/>
+	<script type="text/javascript" src="/js/win_popup.js"></script>
 </head>
     <body>
 	  <div id="container" class="container">
@@ -39,8 +41,8 @@
 		 <a href="/socials/bluesky" title="Bluesky"><img src="/css/socials/bluesky.png" style="width:200px;height:85px;"></a>
 		 <a href="https://twitch.tv/angrybirdsfanboy06" target="_blank" title="Twitch"><img src="/css/socials/twitch.png" style="width:200px;height:85px;"></a>
 		 <a href="/socials/discord" title="Discord"><img src="/css/socials/discord.png" style="width:200px;height:85px;"></a>
-		 <a href="/" target="_blank" title="Signal"><img src="/css/socials/signal.png" style="width:200px;height:85px;"></a>
-		 <a href="https://t.me/angrybirdsfanboy" target="_blank" title="Telegram"><img src="/css/socials/telegram.png" style="width:200px;height:85px;"></a>
+		 <a href="#" onclick="openWindow('Signal','<b>DISCLAIMER:</b><br>The following account may not be suitable for anyone under 18.<br>View the account at your own risk.','https://signal.me/#eu/KBMUQFiafGbBASJCN8K1hJsGBUz0PqHn0Oh6JWCtQJnptltQ2NVKAZwfKfTervfj');" title="Signal"><img src="/css/socials/signal.png" style="width:200px;height:85px;"></a>
+		 <a href="#" onclick="openWindow('Telegram','<b>DISCLAIMER:</b><br>The following account may not be suitable for anyone under 18.<br>View the account at your own risk.','https://t.me/angrybirdsfanboy');" title="Telegram"><img src="/css/socials/telegram.png" style="width:200px;height:85px;"></a>
 		 <a href="https://reddit.com/u/AngryBirdsFanboy06" target="_blank" title="Reddit"><img src="/css/socials/reddit.png" style="width:200px;height:85px;"></a>
 		 <a href="https://github.com/AngryBirdsFanboy06" target="_blank" title="GitHub"><img src="/css/socials/github.png" style="width:200px;height:85px;"></a>
 		 <a href="https://steamcommunity.com/id/AngryBirdsFanboy/" target="_blank" title="Steam"><img src="/css/socials/steam.png" style="width:200px;height:85px;"></a>
@@ -58,14 +60,14 @@
 		 <a href="https://tenor.com/users/angrybirdsfanboy06" target="_blank" title="Tenor"><img src="/css/socials/tenor.png" style="width:200px;height:85px;"></a>
 		 <a href="https://archive.org/details/@angrybirdsfanboy06-000000000000000000000000000000000000000000000000000000000000" target="_blank" title="Archive.org"><img src="/css/socials/archiveorg.png" style="width:200px;height:85px;"></a>
 		 <a href="https://namemc.com/profile/AngryBirdsFanboy" target="_blank" title="Minecraft"><img src="/css/socials/minecraft.png" style="width:200px;height:85px;"></a>
-		 <a href="https://angrybirdsfanboy.newgrounds.com/" target="_blank" title="Newgrounds"><img src="/css/socials/newgrounds.png" style="width:200px;height:85px;"></a>
-		 <a href="https://sfw.furaffinity.net/user/angrybirdsfanboy06" target="_blank" title="Furaffinity"><img src="/css/socials/furaffinity.png" style="width:200px;height:85px;"></a>
+		 <a href="#" onclick="openWindow('Newgrounds','<b>DISCLAIMER:</b><br>The following platform may not be suitable for anyone under 16.<br>View the website at your own risk.','https://angrybirdsfanboy.newgrounds.com/');" title="Newgrounds"><img src="/css/socials/newgrounds.png" style="width:200px;height:85px;"></a>
+		 <a href="#" onclick="openWindow('Furaffinity','<b>DISCLAIMER:</b><br>The following platform may not be suitable for anyone under 16.<br>View the website at your own risk.','https://sfw.furaffinity.net/user/angrybirdsfanboy06');" title="Furaffinity"><img src="/css/socials/furaffinity.png" style="width:200px;height:85px;"></a>
 		 <a href="https://osu.ppy.sh/users/38426618" target="_blank" title="Osu"><img src="/css/socials/osu.png" style="width:200px;height:85px;"></a>
 		 <a href="https://ch.tetr.io/u/angrybirdsfanboy" target="_blank" title="Tetr.io"><img src="/css/socials/tetrio.png" style="width:200px;height:85px;"></a>
 		 <a href="https://bopimo.com/users/Fanboy" target="_blank" title="Bopimo"><img src="/css/socials/bopimo.png" style="width:200px;height:85px;"></a>
 		 <a href="https://polytoria.com/u/AngryBirdsFanboy06" target="_blank" title="Polytoria"><img src="/css/socials/polytoria.png" style="width:200px;height:85px;"></a>
 		 <a href="https://playlook.de/@angrybirdsfanboy06" target="_blank" title="Playlook"><img src="/css/socials/playlook.png" style="width:200px;height:85px;"></a>
-		 <a href="https://snekmo.moe/user/fanboy" target="_blank" title="Snekmo"><img src="/css/socials/snekmo.png" style="width:200px;height:85px;"></a>
+		 <a href="#" onclick="openWindow('Snekmo','<b>DISCLAIMER:</b><br>The following account may not be suitable for anyone under 16.<br>View the account at your own risk.','https://snekmo.moe/user/fanboy');" title="Snekmo"><img src="/css/socials/snekmo.png" style="width:200px;height:85px;"></a>
 		 <h1>Email Contact</h1>
 		 <p>Business Inquiries: fanboy.business@email.cz<br>
          Fan-Art Submissions: fanboy.fanart@email.cz</p>
@@ -80,5 +82,36 @@
 	    </div>
       </div>
 	</body>
+<!-- javascript bs -->
+	<body>	
+    <div class="inviswindow" id="window">
+      <div class="title-bar" id="title-bar">
+        <div class="title-bar-text" id="title-bar-text">
+          Title
+        </div>
+        <div class="title-bar-controls" id="title-bar-controls">
+          <button onclick="closeWindow();" aria-label="Close"></button>
+        </div>
+    </div>
+    <div class="window-body" id="window-body">
+    <table>
+          <tbody>
+            <tr>
+              <td>
+        <img class="render" src="/js/Exclamation.png" style="width:30px;height:30px;">
+                      </td>
+              <td>
+        <p id="description"></p>
+              </td>
+            </tr>
+          </tbody>
+    </table>        
+    <section class="field-row" style="justify-content: flex-end">
+	<button id="link">sure</button>
+     <button onclick="closeWindow();">fuck, go back</button>
+    </section>
+      </div>
+    </div>
+  </body>
 </html>
 

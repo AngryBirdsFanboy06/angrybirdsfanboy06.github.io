@@ -6,6 +6,8 @@
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
 	<meta name="viewport" content="width=device-width, initial-scale=0.7">
 	<meta name="robots" content="nosnippet" />
+	<link rel="stylesheet" href="/js/win_popup.css"/>
+	<script type="text/javascript" src="/js/win_popup.js"></script>
 </head>
     <body>
 	  <div id="container" class="container">
@@ -36,7 +38,7 @@
 	    <div id="socials" class="socials">
          <p></p>
          <a href="https://discord.com/users/735436352702644225" target="_blank" title="angrybirdsfanboy06"><img src="/css/socials/extra/discord_rblx.png" style="width:400px;height:172px;"></a>
-		 <a href="https://discord.com/users/1337475991332716558" target="_blank" title="angrybirdsfanboy"><img src="/css/socials/extra/discord_personal.png" style="width:400px;height:172px;"></a>
+		 <a href="#" onclick="openWindow('angrybirdsfanboy','<b>DISCLAIMER:</b><br>The following account may not be suitable for anyone under 16.<br>View the account at your own risk.','https://discord.com/users/1337475991332716558');" title="angrybirdsfanboy"><img src="/css/socials/extra/discord_personal.png" style="width:400px;height:172px;"></a>
 		 <a href="https://discord.com/users/881561376525549588" target="_blank" title="abfanboy06"><img src="/css/socials/extra/discord_alt.png" style="width:400px;height:172px;"></a>
 		 <p></p>
 		</div>
@@ -50,5 +52,36 @@
 	    </div>
       </div>
 	</body>
+<!-- javascript bs -->
+	<body>	
+    <div class="inviswindow" id="window">
+      <div class="title-bar" id="title-bar">
+        <div class="title-bar-text" id="title-bar-text">
+          Title
+        </div>
+        <div class="title-bar-controls" id="title-bar-controls">
+          <button onclick="closeWindow();" aria-label="Close"></button>
+        </div>
+    </div>
+    <div class="window-body" id="window-body">
+    <table>
+          <tbody>
+            <tr>
+              <td>
+        <img class="render" src="/js/Exclamation.png" style="width:30px;height:30px;">
+                      </td>
+              <td>
+        <p id="description"></p>
+              </td>
+            </tr>
+          </tbody>
+    </table>        
+    <section class="field-row" style="justify-content: flex-end">
+	<button id="link">sure</button>
+     <button onclick="closeWindow();">fuck, go back</button>
+    </section>
+      </div>
+    </div>
+  </body>
 </html>
 
