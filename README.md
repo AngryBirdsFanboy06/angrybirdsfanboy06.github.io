@@ -1,6 +1,7 @@
 # fanboy.cz
 This website was mainly made for sharing all things related to myself, projects and more in one place. Along with other domain related stuff, such as the Bluesky accounts.
-# credits
+More information about this website are here: https://fanboy.cz/portfolio/website
+# Credits
 Thomasluigi07 - Giving me tips on coding a website and helping me out with javascript. (As well as being 100% okay with me using their website code base as a reference.)
 W3schools - Tutorials and information in regards to HTML, CSS and more.
 Github - Hosting this website
