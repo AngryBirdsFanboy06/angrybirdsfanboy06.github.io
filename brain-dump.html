@@ -1,17 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Fanboy (AngryBirdsFanboy06)</title>
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <title>Brain Dump | Fanboy (AngryBirdsFanboy06)</title>
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
 	<meta name="viewport" content="width=device-width, initial-scale=0.7">
+	<meta name="robots" content="nosnippet" />
+	<link rel="stylesheet" href="/js/win_popup.css"/>
+	<script type="text/javascript" src="/js/win_popup.js"></script>
+	<!-- embed -->
+	<meta property="og:title" content="Brain Dump | Fanboy (AngryBirdsFanboy06)" />
+	<meta property="og:type" content="profile" />
+	<meta property="og:url" content="https://fanboy.cz" />
+	<meta property="og:site_name" content="fanboy.cz" />
+	<meta property="og:image" content="https://fanboy.cz/favicon.png" />
+	<meta property="og:image:alt" content="A picute icon of a Angry Birds OC Tablet via Silver Metal Texture" />
+	<meta property="og:description" content="What is this all about?
+		Well in short, it's a Bluesky account where I post random nonsensical shit that would I would find funny to see as a Bluesky post." />
 </head>
     <body>
 	  <div id="container" class="container">
 		<div id="header" class="header">
           <div id="headerlogo" class="headerlogo">
-            <img src="css/fanboylogo.png" alt="Fanboy Logo" style="width:500px;height:204px;">
+            <img src="/css/fanboylogo.png" alt="Fanboy Logo" style="width:500px;height:204px;">
           </div>
+	    </div>
 	      <div id="headerbuttons" class="headerbuttons">
             <p><b>
 			<a href="/">Home</a>
@@ -30,25 +43,60 @@
 	    </div>
 	       <br>
 		<div id="winbar" class="winbar">
-		<p><b>Work In Progress</b></p>
+		<p><b>Brain Dump</b></p>
 		</div>
-	    <div id="wip" class="wip">
-         <h1>Sorry bro</h1>
-         <p>This web page is still being built</p>
-         <img src="css/sorry_bro.png" alt="dumbass" style="width:300px;height:446px;">
-           <p><del>keep on scrolling</del>
-		   <br>
-           Go back to <a href="/">home</a></p>
+	    <div  id="braindump" class="braindump">
+		<h1>What is this all about?</h1>
+		<p>Well in short, it's a Bluesky account where I post random nonsensical shit that would I would find funny to see as a Bluesky post.<br>
+		Note: A lot of these posts are related to drugs, NSFW and other topics that can make people uncomfortable, as well as something that under 16 year olds shouldn't be viewing at all.</p>
+		<p>Also keep in mind that most, if not all of these posts on this account do NOT actually represent me in any way, I only view them as funny Bluesky posts, not my believes.</p>
+<div  id="braindumpbsky" class="braindumpbsky">
+		   <!-- BlueskyTimeline Widget -->
+<bst-widget data-handle="braindump.fanboy.cz" data-theme="custom" data-color="#000000/#ffffff/#949494" data-width="420px" data-height="1200px" data-lang="en" data-ui="0" data-pin="1" data-rp="0" data-thread="1" data-prof="1"></bst-widget>
+<script src="https://blueskytimeline.com/v2/timeline.js" type="module" defer></script>
+<!-- /BlueskyTimeline Widget -->
+		</div>
+		<br>
 		</div>
 		<div id="winbar" class="winbar">
-		<p><b>Webrings/Website Buttons</b></p>
+		<p><b>Website Buttons</b></p>
 		</div>
 	    <div id="footer" class="footer">
 		<iframe width="470" height="150"
-        src="css/webrings.html">
+        src="/css/webrings.html">
         </iframe>
 	    </div>
       </div>
 	</body>
+<!-- javascript bs -->
+	<body>	
+    <div class="inviswindow" id="window">
+      <div class="title-bar" id="title-bar">
+        <div class="title-bar-text" id="title-bar-text">
+          Title
+        </div>
+        <div class="title-bar-controls" id="title-bar-controls">
+          <button onclick="closeWindow();" aria-label="Close"></button>
+        </div>
+    </div>
+    <div class="window-body" id="window-body">
+    <table>
+          <tbody>
+            <tr>
+              <td>
+        <img class="render" src="/js/Exclamation.png" style="width:30px;height:30px;">
+                      </td>
+              <td>
+        <p id="description"></p>
+              </td>
+            </tr>
+          </tbody>
+    </table>        
+    <section class="field-row" style="justify-content: flex-end">
+	<button id="link">sure</button>
+     <button onclick="closeWindow();">fuck, go back</button>
+    </section>
+      </div>
+    </div>
+  </body>
 </html>
-
