@@ -20,6 +20,7 @@ The Cyber Vanguard - Hosting collections of 88x31 Website Buttons
 
 Lanausse, TheFinnishOne, Bloope and ChocolateImage for inspiring me to make a website of my own as well. 
 
+#License
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 This work is licensed under a
