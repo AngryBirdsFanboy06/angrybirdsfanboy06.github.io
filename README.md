@@ -19,3 +19,14 @@ Notepad+++ (Interface for Scripting) and Python (Local HTTP Server) - Tools used
 The Cyber Vanguard - Hosting collections of 88x31 Website Buttons
 
 Lanausse, TheFinnishOne, Bloope and ChocolateImage for inspiring me to make a website of my own as well. 
+
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
