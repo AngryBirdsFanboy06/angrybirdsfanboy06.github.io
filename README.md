@@ -10,6 +10,8 @@ Github - Hosting this website
 
 BlueskyTimeline - Bluesky Profile Timeline Embed
 
+tocoscilloscope - The idea of embedding a barebones StrawPage page for its "gimmick's".
+
 robotstxt.com - Helpful guide to block known clankers.
 
 Plumify - Explaining how robots.txt actually works.
@@ -17,6 +19,8 @@ Plumify - Explaining how robots.txt actually works.
 Notepad+++ (Interface for Scripting) and Python (Local HTTP Server) - Tools used for making this website.
 
 The Cyber Vanguard - Hosting collections of 88x31 Website Buttons
+
+98.css - Accurate Windows Popup theme.
 
 Lanausse, TheFinnishOne, Bloope and ChocolateImage for inspiring me to make a website of my own as well. 
 
