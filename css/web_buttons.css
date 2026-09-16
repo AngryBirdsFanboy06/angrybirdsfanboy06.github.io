@@ -9,3 +9,11 @@ html {
 h5, h3 {
   font-family: verdana;
 }
+
+* {
+    cursor: url('/css/Hand_Pointing.png'), default;
+}
+
+a, span, p a, p a img, a img, input, textarea {
+    cursor: url('/css/Hand_Open.png'), pointer;
+}

@@ -2,6 +2,8 @@
 This website was mainly made for sharing all things related to myself, projects and more in one place. Along with other domain related stuff, such as the Bluesky accounts.
 More information about this website are here: https://fanboy.cz/portfolio/website
 # Credits
+Patomario, Lanausse, TheFinnishOne, Bloope and ChocolateImage for inspiring me to make a website of my own as well. 
+
 Tamasina - Giving me tips on coding a website and helping me out with javascript. (As well as being 100% okay with me using their website code base as a reference.)
 
 W3schools - Tutorials and information in regards to HTML, CSS and more.
@@ -21,8 +23,6 @@ Notepad+++ (Interface for Scripting) and Python (Local HTTP Server) - Tools used
 The Cyber Vanguard - Hosting collections of 88x31 Website Buttons
 
 98.css - Accurate Windows Popup theme.
-
-Lanausse, TheFinnishOne, Bloope and ChocolateImage for inspiring me to make a website of my own as well. 
 
 # License
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
