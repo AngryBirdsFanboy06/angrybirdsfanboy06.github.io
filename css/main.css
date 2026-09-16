@@ -143,3 +143,11 @@ html {
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
+
+* {
+    cursor: url(Hand_Pointing.png), default;
+}
+
+a, span, p a, p a img, a img, input, textarea {
+    cursor: url(Hand_Open.png), pointer;
+}
