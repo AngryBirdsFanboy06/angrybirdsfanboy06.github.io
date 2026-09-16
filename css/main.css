@@ -145,9 +145,9 @@ html {
 }
 
 * {
-    cursor: url(Hand_Pointing.png), default;
+    cursor: url('/css/Hand_Pointing.png'), default;
 }
 
 a, span, p a, p a img, a img, input, textarea {
-    cursor: url(Hand_Open.png), pointer;
+    cursor: url('/css/Hand_Open.png'), pointer;
 }
